@@ -11,7 +11,7 @@ var cfgFile string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "linkstobook",
+	Use:   "pageToepub",
 	Short: "A simple tool to convert web pages into epub",
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
